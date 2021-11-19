@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ernest's Neural Data Science (NESC 3505) Portfolio!
 
 You can use the [editor on GitHub](https://github.com/ErnestoNg23/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
