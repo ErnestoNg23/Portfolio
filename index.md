@@ -1,4 +1,4 @@
-## Welcome to Ernest's Neural Data Science (NESC 3505) Portfolio!
+# Welcome to Ernest's Neural Data Science (NESC 3505) Portfolio!
 
 ![109AD9F8-4FD3-44A7-889C-23631991E27E](https://user-images.githubusercontent.com/81998900/142711255-020d704c-5ba2-49d5-9351-98532eaad8fa.JPG)
 
@@ -7,7 +7,7 @@ Hi there! Welcome to my GitHub page, made as a way of showcasing some of the wor
 ### Code demonstrations & examples
 Below are just some of the examples of codes I have written throughout my time in this class, ranging from super simple 1st day of Python bootcamp stuff to much more complicated arrays and plots. 
 
-# Heat Map generation using Python
+## Heat Map generation using Python
 Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
 
 ### Markdown
