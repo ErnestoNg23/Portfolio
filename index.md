@@ -17,4 +17,4 @@ Here is some code I wrote on [how to visualize data using the pandas .plot metho
 Here is some code I wrote on [how to visualize data using the Seaborn package](Project 1 Stuff.md).
 
 ### Data cleaning in pandas dataframes
-Here is [how to clean data (i.e. removing missing values and so on) in dataframes](Assignment_3.md)
+Here is [how to clean data (i.e. removing missing values and so on) in dataframes](Assignment_3.md).
