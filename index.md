@@ -1,10 +1,13 @@
 ## Welcome to Ernest's Neural Data Science (NESC 3505) Portfolio!
 
-You can use the [editor on GitHub](https://github.com/ErnestoNg23/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![109AD9F8-4FD3-44A7-889C-23631991E27E](https://user-images.githubusercontent.com/81998900/142711255-020d704c-5ba2-49d5-9351-98532eaad8fa.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there! Welcome to my GitHub page, made as a way of showcasing some of the work I've done as part of the NESC3505 Neural Data Science class with Dalhousie University's Department of Psychology & Neuroscience. I'm Ernest, a 3rd year Neuroscience major. I do a lot of research into motor skills and motor learning, including setting up and running studies. Most of that requires extensive coding knowledge and while I had 0 prior knowledge about coding, here I am anyway. Python can seem scary to a beginner (frankly, it still scares me too. I might dress up as a Python error code next Halloween) but this portfolio serves as an example of some of the things that can be accomplished through Python, even with a beginner like myself 
 
-### Heat Map generation using Python
+### Code demonstrations & examples
+Below are just some of the examples of codes I have written throughout my time in this class, ranging from super simple 1st day of Python bootcamp stuff to much more complicated arrays and plots. 
+
+## Heat Map generation using Python
 Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
 
 ### Markdown
