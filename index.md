@@ -13,6 +13,8 @@ Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
 ### Visualisation of data using pandas
 Here is some code I wrote on [how to visualize data using the pandas .plot method](Visualisation stuff.md).
 
+### Visualisation of data using Seaborn
+Here is some code I wrote on [how to visualize data using the Seaborn package](Project 1 Stuff.md).
 
 ### Markdown
 
