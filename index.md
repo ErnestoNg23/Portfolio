@@ -7,7 +7,7 @@ Hi there! Welcome to my GitHub page, made as a way of showcasing some of the wor
 ### Code demonstrations & examples
 Below are just some of the examples of codes I have written throughout my time in this class, ranging from super simple 1st day of Python bootcamp stuff to much more complicated arrays and plots. 
 
-## Heat Map generation using Python
+# Heat Map generation using Python
 Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
 
 ### Markdown
