@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/ErnestoNg23/Portfolio/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Heat Map generation using Python
+Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
