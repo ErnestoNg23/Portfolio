@@ -4,11 +4,15 @@
 
 Hi there! Welcome to my GitHub page, made as a way of showcasing some of the work I've done as part of the NESC3505 Neural Data Science class with Dalhousie University's Department of Psychology & Neuroscience. I'm Ernest, a 3rd year Neuroscience major. I do a lot of research into motor skills and motor learning, including setting up and running studies. Most of that requires extensive coding knowledge and while I had 0 prior knowledge about coding, here I am anyway. Python can seem scary to a beginner (frankly, it still scares me too. I might dress up as a Python error code next Halloween) but this portfolio serves as an example of some of the things that can be accomplished through Python, even with a beginner like myself 
 
-### Code demonstrations & examples
+## Code demonstrations & examples
 Below are just some of the examples of codes I have written throughout my time in this class, ranging from super simple 1st day of Python bootcamp stuff to much more complicated arrays and plots. 
 
-## Heat Map generation using Python
-Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md)
+### Heat Map generation using Python
+Here is some code I wrote on [how to generate Heat Map plots](Heat Map stuff.md).
+
+### Visualisation of data using pandas
+Here is some code I wrote on [how to visualize data using the pandas .plot method](Visualisation stuff.md).
+
 
 ### Markdown
 
@@ -29,15 +33,3 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErnestoNg23/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
