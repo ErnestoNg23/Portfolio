@@ -1,4 +1,4 @@
-### Heat map generation
+# Heat map generation
 
 Heat maps are useful in plotting data from spike train data sets, where spike train data involves many neurons firing in within a period of time. Data utilised in producing the heatmaps below are courtesy of Dr Nathan Crowder of Dalhousie University's Department of Psychology & Neuroscience. Important things to note are that prior to this, there are several codes that must be run before reaching this step, such as importing the requisite packages, reading in the data file as well as creating a NumPy array for the heat map to read into. 
 
@@ -30,5 +30,5 @@ plt.tight_layout()
 plt.show()
 ```
 
-# This is what the heap map will look like!
+### This is what the heap map will look like!
 ![image](https://user-images.githubusercontent.com/81998900/142711893-8efcbe90-6140-4dda-8160-23d034788212.png)
