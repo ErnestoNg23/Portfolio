@@ -1,10 +1,13 @@
+# Data cleaning in pandas
+
+Data cleaning is the process of finding missing values within a data set and removing them, in order to achieve a data set that is more usable and more complete. When working with pandas and dataframes, it can be useful to perform these steps below especially if the data set is especially large.  
+
+## Finding missing values
+The first step to knowing what's there in your dataframe is to, well, know what's not there to begin with. Using the '.isna()' command, one can find out about how many missing values there are before deciding how to deal with those pesky missing values. 
+
 ```python
 df.isna().sum()
 ```
-
-
-
-
     id                     0
     year                   0
     month                  0
@@ -32,11 +35,12 @@ df.isna().sum()
 
 ## Data Cleaning
 
+Having now identified the missing values, you can them move to remove these values (also known as data trimming), which allows the data set to be more complete. Again working with commands from the pandas dataframe, the '.dropna()' code can be used to get rid of these missing values. 
+
 ```python
 df.dropna()
 ```
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
